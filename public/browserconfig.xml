@@ -2,10 +2,10 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="/virelon-v-icon.png"/>
-      <square150x150logo src="/virelon-v-icon.png"/>
+      <square70x70logo src="/favicon-96x96.png"/>
+      <square150x150logo src="/favicon-192x192.png"/>
       <wide310x150logo src="/og-image.png"/>
-      <square310x310logo src="/og-image.png"/>
+      <square310x310logo src="/favicon-512x512.png"/>
       <TileColor>#000000</TileColor>
     </tile>
   </msapplication>
