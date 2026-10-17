@@ -1,0 +1,13 @@
+# RFC 9116 Security Disclosure Policy
+# https://virelonsoft.muhammetatmaca.com.tr/security.txt
+
+Contact: mailto:lexicallayer@muhammetatmaca.com.tr
+Contact: https://virelonsoft.muhammetatmaca.com.tr/tickets
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: tr, en
+Canonical: https://virelonsoft.muhammetatmaca.com.tr/.well-known/security.txt
+Canonical: https://virelonsoft.muhammetatmaca.com.tr/security.txt
+Policy: https://virelonsoft.muhammetatmaca.com.tr/
+
+# Organization: VirelonSoft
+# Focus: High-performance software engineering, enterprise security & secure API gateways

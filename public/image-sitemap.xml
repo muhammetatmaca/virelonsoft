@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://virelonsoft.muhammetatmaca.com.tr/</loc>
+    <image:image>
+      <image:loc>https://virelonsoft.muhammetatmaca.com.tr/virelonsoft-logo.png</image:loc>
+      <image:title>Virelonsoft Logo</image:title>
+      <image:caption>Virelonsoft Kurumsal Yazılım ve Sistem Mimarisi</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://virelonsoft.muhammetatmaca.com.tr/virelon-v-icon.png</image:loc>
+      <image:title>Virelonsoft Mark İkonu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://virelonsoft.muhammetatmaca.com.tr/og-image.png</image:loc>
+      <image:title>Virelonsoft Sosyal Medya Önizleme Görseli</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://virelonsoft.muhammetatmaca.com.tr/projects</loc>
+    <image:image>
+      <image:loc>https://virelonsoft.muhammetatmaca.com.tr/showcase/teleflow-banner.png</image:loc>
+      <image:title>Teleflow AI Akıllı Teleprompter</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://virelonsoft.muhammetatmaca.com.tr/showcase/logo-b2b-portal.png</image:loc>
+      <image:title>Logo ERP Entegre B2B Bayi Sipariş Portalı</image:title>
+    </image:image>
+  </url>
+</urlset>

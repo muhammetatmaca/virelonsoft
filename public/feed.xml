@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virelonsoft — Kurumsal Yazılım, Mobil &amp; Sistem Mimarisi</title>
+    <link>https://virelonsoft.muhammetatmaca.com.tr/</link>
+    <description>Ölçeklenebilir mikroservisler, yüksek performanslı mobil uygulamalar (iOS &amp; Android), B2B bayi portalları, Logo ERP entegrasyonu ve SEO mimarileri geliştiren bağımsız yazılım stüdyosu.</description>
+    <language>tr</language>
+    <lastBuildDate>Sat, 17 Oct 2026 03:00:00 +0300</lastBuildDate>
+    <atom:link href="https://virelonsoft.muhammetatmaca.com.tr/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Logo ERP Entegre B2B Bayi Sipariş &amp; Cari Yönetim Portalı</title>
+      <link>https://virelonsoft.muhammetatmaca.com.tr/projects</link>
+      <description>Logo Tiger &amp; Go3 veritabanları ile çift yönlü REST API senkronizasyonu sağlayan kurumsal bayi sipariş altyapısı.</description>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://virelonsoft.muhammetatmaca.com.tr/projects#b2b</guid>
+    </item>
+
+    <item>
+      <title>Teleflow AI — Akıllı Teleprompter Mobil Uygulaması</title>
+      <link>https://virelonsoft.muhammetatmaca.com.tr/projects</link>
+      <description>React Native tabanlı, 60 FPS floating widget ve ses takip motorlu profesyonel teleprompter uygulaması.</description>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://virelonsoft.muhammetatmaca.com.tr/projects#teleflow</guid>
+    </item>
+
+    <item>
+      <title>Virelonsoft Dijital Dönüşüm &amp; Mühendislik Çözümleri</title>
+      <link>https://virelonsoft.muhammetatmaca.com.tr/supply</link>
+      <description>Frontend mühendisliği, modern mobil sistemler, dağıtık mikroservis altyapısı ve bulut mimarileri.</description>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://virelonsoft.muhammetatmaca.com.tr/supply</guid>
+    </item>
+  </channel>
+</rss>

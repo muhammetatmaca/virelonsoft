@@ -1,0 +1,21 @@
+/* TEAM */
+  Software Studio: VirelonSoft
+  Founder & Lead Architect: Muhammet Atmaca
+  Contact: lexicallayer@muhammetatmaca.com.tr
+  Website: https://virelonsoft.muhammetatmaca.com.tr
+  Founder Portfolio: https://muhammetatmaca.com.tr
+  GitHub: https://github.com/muhammetatmaca
+  LinkedIn: https://www.linkedin.com/in/muhammet-atmaca-857481252/
+  Location: Bayburt & Samsun, Türkiye
+
+/* TECH STACK */
+  Frontend: React 19, TypeScript, Vite, TailwindCSS, Framer Motion, WebGL / WebGL2
+  Mobile: React Native, Expo, SwiftUI, Kotlin
+  Backend: ASP.NET Core, Node.js, Next.js, PostgreSQL, Redis, Docker, Microservices
+  ERP & Integration: Logo Tiger 3, Logo Go 3 REST/SQL Sync, B2B Dealer Portals
+  Standards: HTML5, CSS3, SVG, JSON-LD (Schema.org), RFC 9116, OpenSearch 1.1, RSS 2.0
+  Hosting & Edge: Cloudflare Pages & Workers, Zero-Trust Architecture
+
+/* CREDITS */
+  Open Source & Web Community
+  All rights reserved © 2026 VirelonSoft

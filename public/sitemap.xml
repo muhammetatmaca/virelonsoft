@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Ana Sayfa (Hero, Servisler, Süreç, İletişim) -->
+  <url>
+    <loc>https://virelonsoft.muhammetatmaca.com.tr/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://virelonsoft.muhammetatmaca.com.tr/virelonsoft-logo.png</image:loc>
+      <image:title>Virelonsoft Kurumsal Yazılım ve Sistem Mimarisi Logo</image:title>
+      <image:caption>Virelonsoft yüksek performanslı kurumsal yazılım, mobil ve sistem mühendisliği stüdyosu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://virelonsoft.muhammetatmaca.com.tr/og-image.png</image:loc>
+      <image:title>Virelonsoft Dijital Sistem Mimarisi</image:title>
+      <image:caption>Modern mobil uygulama, B2B portal ve kurumsal mimari</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Projelerimiz Showcase -->
+  <url>
+    <loc>https://virelonsoft.muhammetatmaca.com.tr/projects</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://virelonsoft.muhammetatmaca.com.tr/showcase/teleflow-banner.png</image:loc>
+      <image:title>Teleflow AI Akıllı Teleprompter Mobil Uygulaması</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://virelonsoft.muhammetatmaca.com.tr/showcase/logo-b2b-portal.png</image:loc>
+      <image:title>Logo ERP Entegre B2B Bayi Sipariş ve Cari Yönetim Portalı</image:title>
+    </image:image>
+  </url>
+
+  <!-- Hizmetlerimiz (Frontend, Mobil, Backend, Bulut) -->
+  <url>
+    <loc>https://virelonsoft.muhammetatmaca.com.tr/supply</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://virelonsoft.muhammetatmaca.com.tr/og-image.png</image:loc>
+      <image:title>Virelonsoft Mühendislik Hizmetleri ve Teknik Altyapı</image:title>
+    </image:image>
+  </url>
+
+  <!-- SEO Optimizasyonu ve Teknik Mimari -->
+  <url>
+    <loc>https://virelonsoft.muhammetatmaca.com.tr/ai</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://virelonsoft.muhammetatmaca.com.tr/og-image.png</image:loc>
+      <image:title>Virelonsoft Teknik SEO ve Yapay Zeka Arama Motoru Optimizasyonu</image:title>
+    </image:image>
+  </url>
+
+  <!-- Hakkımızda, Vizyon ve Kurucu Bilgisi -->
+  <url>
+    <loc>https://virelonsoft.muhammetatmaca.com.tr/equator</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://virelonsoft.muhammetatmaca.com.tr/virelon-v-icon.png</image:loc>
+      <image:title>Virelonsoft Kurumsal Kimlik İkonu</image:title>
+    </image:image>
+  </url>
+
+  <!-- Teklif Alın (Dijital Bilet ve Proje Başlatma Formu) -->
+  <url>
+    <loc>https://virelonsoft.muhammetatmaca.com.tr/tickets</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+</urlset>

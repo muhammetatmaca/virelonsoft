@@ -1,0 +1,30 @@
+# VirelonSoft — Kapsamlı Sistem Mimarisi & Mühendislik Rehberi (llms-full.txt)
+
+## Stüdyo Özeti
+VirelonSoft, yüksek performanslı dijital ürünler geliştiren mühendislik odaklı bir yazılım stüdyosudur. Her projede temiz mimari (Clean Architecture), sıfır yapay gecikme ve ölçeklenebilir kod prensipleri uygulanır.
+
+## Projeler & Referanslar
+1. **Logo ERP Entegre B2B Bayi Portalı**:
+   - Dağıtıcı firmaların yüzlerce bayisi için anlık sipariş, cari hesap ekstresi, iskonto ve stok takibi.
+   - Logo Tiger 3 ve Go 3 MSSQL/REST API çift yönlü senkronizasyonu.
+   - Detay: https://virelonsoft.muhammetatmaca.com.tr/projects
+
+2. **Teleflow AI Akıllı Teleprompter**:
+   - İçerik üreticileri için ses tanıyan, konuşma hızına göre metni kaydıran 60 FPS mobil uygulama.
+   - React Native & native ses kütüphaneleri mimarisi.
+   - Detay: https://virelonsoft.muhammetatmaca.com.tr/projects
+
+3. **Core Web Vitals & Teknik SEO Platformları**:
+   - 100/100 Google Lighthouse puanı ve anlık sunucu tepki süreleri.
+   - Detay: https://virelonsoft.muhammetatmaca.com.tr/ai
+
+## Kurucu ve Teknik Lider
+- **Muhammet Atmaca**
+- 50'den fazla canlı mobil uygulama, Türkiye ve küresel çapta teslim edilen onlarca kurumsal proje.
+- Portfolyo: https://muhammetatmaca.com.tr
+
+## Konum ve İletişim
+- Hizmet Bölgesi: Türkiye geneli (İstanbul, Ankara, İzmir, Bursa, Antalya, Samsun, Bayburt) ve uzaktan tüm dünya.
+- E-posta: lexicallayer@muhammetatmaca.com.tr
+- Telefon: +90 507 008 4069
+- Canlı Teklif Talebi: https://virelonsoft.muhammetatmaca.com.tr/tickets

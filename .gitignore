@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Production build
+dist/
+build/
+
+# Credentials & Secrets (CRITICAL)
+service_account.json
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Editor & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Cache & Local tooling
+.originkit/
+.vite/
+*.tsbuildinfo

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Virelonsoft</ShortName>
+  <Description>Virelonsoft — Kurumsal Yazılım, Mobil ve Proje Kataloğunda Ara</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <Tags>virelonsoft kurumsal-yazilim mobil-uygulama b2b-portal erp-entegrasyonu react-native</Tags>
+  <Contact>lexicallayer@muhammetatmaca.com.tr</Contact>
+  <Url type="text/html" template="https://virelonsoft.muhammetatmaca.com.tr/projects?q={searchTerms}"/>
+  <Image width="64" height="64" type="image/png">https://virelonsoft.muhammetatmaca.com.tr/virelon-v-icon.png</Image>
+  <Developer>Muhammet Atmaca (VirelonSoft)</Developer>
+  <Attribution>© 2026 VirelonSoft. Tüm Hakları Saklıdır.</Attribution>
+  <SyndicationRight>open</SyndicationRight>
+  <AdultContent>false</AdultContent>
+  <Language>tr</Language>
+</OpenSearchDescription>
